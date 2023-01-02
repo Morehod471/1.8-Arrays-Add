@@ -12,6 +12,7 @@ public class Main {
 
     public static void task1() {
         System.out.println("Задача 1");
+        System.out.println();
     }
 
     private static void task2() {
